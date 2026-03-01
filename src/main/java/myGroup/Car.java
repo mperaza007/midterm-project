@@ -49,7 +49,7 @@ public class Car{
      */
     public void drive(int milesDriven){
         this.miles += milesDriven;
-        System.out.println("The car has driven " + this.miles + " miles so far");
+        System.out.println("The car has driven " + this.miles + " miles so far.");
     }
 
     /**
